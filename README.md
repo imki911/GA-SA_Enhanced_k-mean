@@ -1,7 +1,7 @@
 ﻿----2018年6月9日
 gf@gfshen.cn
 -------文件说明--------
-
+dev branch
 1.-----------------------
 bezdekIris.txt
 数据集1，来自UCI的IRIS样本
